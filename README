@@ -1,3 +1,21 @@
 # FIvem
 You may use these files as your own and edit them for your own personal usage.
 You may not sell this to anyuone and you may not claim anything made by Clark Productions as your own
+
+
+NOTICE:
+
+THe the file you will see these 3 files
+female_ped.meta
+male_ped.meta
+peds.meta
+
+You only need the ped.meta however if you only need the female ped copy the code in female_ped.meta If you need just the male copy the male_ped.meta  or if you need both just use the
+peds.meta.    make sure you rename the file peds.meta if you are using either the male or female ped.
+
+Below you will see and example of how to change the name of the ped in the peds.meta to match what the ped is named so you can spwan it in game.
+
+Original Code  <Name>male_example_model_name_01</Name>
+Edit the male_example_model_name_01 to what the name of the ped is.
+this will be the same for the female ped. If you have any questions or need any help please feel free to reach out to me on discord my user name is
+midnightwhisper1
